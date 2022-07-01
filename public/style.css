@@ -1,0 +1,32 @@
+.main{
+
+    display: grid;
+    height: 250px,auto;
+    grid-template-columns: 200px;
+    margin-left: 38%; 
+    margin-top: 10%;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-right: 40%;
+    padding-left: 20px;
+}
+
+.input{
+
+    background-color: aqua;
+    height: 30px;
+    width: 15em;
+    font-size: 15px;
+    border-radius: 5px;
+    
+}
+
+.btn{
+
+    background-color: aqua;
+    height:20px;
+    width: 5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
